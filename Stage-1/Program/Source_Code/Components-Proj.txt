@@ -1,0 +1,27 @@
+Load cell
+https://majestronicz.in/products/weighing-load-cell-sensor-5kg?_pos=1&_sid=0a7609002&_ss=r
+
+hx711
+https://majestronicz.in/products/hx711-24-bit-weight?_pos=1&_sid=2723be0b0&_ss=r
+
+sheet - IndiaMart
+https://www.indiamart.com/proddetail/2mm-stainless-steel-plate-22450074091.html?utm_medium=prd_ads&utm_campaign=22473472782&utm_content=Product&utm_source=google&utm_ad_group=182401746670&gclsrc=aw.ds&gad_source=1&gad_campaignid=22473472782&gbraid=0AAAAAD-fhHpgAVspOj2JHqcbBiHp0yHSI&gclid=Cj0KCQjwoP_FBhDFARIsANPG24N0Ew9ZCsnONzVHoJbFGAq-NEMDJ0-d-EsI4-2VeKH-Y-jk8NX9DzAaArJ2EALw_wcB
+
+Motor - gear motor : 
+https://majestronicz.in/products/500rpm-12v-gearmotor?_pos=7&_sid=7a2b38790&_ss=r
+
+Bearing:
+https://www.amazon.in/CYIDER-608zz-Bearing-8x22x7-Pre-lubricated/dp/B0D5H8YWG5/ref=sr_1_7?crid=3O4WZBKYBO78Q&dib=eyJ2IjoiMSJ9.ex5PZGsj-PgkH--k4SDOpAGC3GW2M7Hulk5rxcDkBFNWpehu_i3Rp-rzB-QAX0im2qOBuauwmjhYvsXGeMo_ilK12azsvwVkPaGDMSof1ZAinYOcJdY8_jKcDK9o47lC1SHpjgoRhg_13qFe4j6msPIyIPPb97aGw-KgmHFiLX2v8qosIziJTw7e467zpFSYlC4YMzcEOBO6fXmQ8iiLm7K7brK9J4AksKrtxcrA34DjUzTHOZMNLHKGGYJ3HiwO3kJWIi5Tv6dyOgyM9fYaWXBHTwMcXt9faFywS0Mbwg8.cMvQzRvkrFjjU3VefI95kFEPoyXCV2ZizsdFVh8yEXM&dib_tag=se&keywords=bearing&qid=1757412141&sprefix=bearing%2Caps%2C302&sr=8-7&th=1
+
+Motor Tooth Gear:
+https://www.amazon.in/INVENTO-Printed-Plastic-Module-Projects/dp/B096N5ZQY3/ref=sr_1_1?crid=36TFY1GKECIK9&dib=eyJ2IjoiMSJ9.n0FxmNsbq31zsXA3b1t_zSVT861g89WRmZ2ri7_AiuXMTV3CQzRxYpXwkGqo1EmK8O5LkBZa4znLFUiNYHr-nQ7z6QDf7BrZlFs_T0EGG59SsZgFyY7t62HmMR6y92M_7bWVGAKbFgD28WG66JLnQett-A2H1Cjs2UQ77qjFd2zYpFgH4Q7nyV-_-LNfcL8DVTdHMohi9ozdCLAXRZgV3lfdAS4r3xu1LQOLd9Yf0d7I9zpBLY8SsgsldAeqUg-I22C-2ob-TMm0prF5AR63cZxDYMSrCA2UJiVK_aYH8Go.E5P5ga2KFiJtgBM-0eNMyYjCWrmGVtGL0DeAgoW8Ppw&dib_tag=se&keywords=motor+tooth+gear+Plastic+Spur+Gear+14+Teeth+%2B+34+Teeth%2C+1.5+Module%2C+10mm+Width%2C+6mm+hole+for+DIY+Projects&nsdOptOutParam=true&qid=1757413928&sprefix=motor+tooth+gear+plastic+spur+gear+14+teeth+%2B+34+teeth%2C+1.5+module%2C+10mm+width%2C+6mm+hole+for+diy+projects%2Caps%2C283&sr=8-1
+
+Conveyor Belt:
+https://www.indiamart.com/proddetail/green-pvc-conveyor-belt-18477869962.html?utm_medium=prd_ads&utm_campaign=22422867093&utm_ad_group=184625392464&utm_content=product&utm_source=google&gclsrc=aw.ds&gad_source=1&gad_campaignid=22422867093&gbraid=0AAAAAD-fhHoervPzqTvRnkc8-c7vlgGQA&gclid=Cj0KCQjwoP_FBhDFARIsANPG24MCeH0Wo9e0ZNAGEGhoThfRgu3KaJOzjt7NdClDScc678dNUvD6kRQaAhRLEALw_wcB
+
+Arduino:
+https://majestronicz.in/products/arduino-uno-smd?_pos=1&_sid=00ead98fb&_ss=r
+cable: 
+https://majestronicz.in/products/arduino-uno-cable?_pos=2&_sid=00ead98fb&_ss=r
+
+Total Cost: 1543
