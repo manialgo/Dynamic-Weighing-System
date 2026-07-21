@@ -14,9 +14,9 @@ To design and develop a **Dynamic Weighing System** capable of accurately measur
 
 ## 👥 Team Members
 
-- **Manikandan M**
-- **Aathithayn K**
-- **Hiruthikesh K**
+- **[Manikandan M](https://github.com/manialgo)**
+- **[Aathithayn K](https://github.com/Aathithyan02)**
+- **[Hiruthikesh K](https://github.com/Hiruthirosh555)**
 
 **Duration**: 35 Days (Intense work over ~20 days of core development + 15 days of testing & refinement)
 
