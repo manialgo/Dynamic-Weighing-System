@@ -80,5 +80,3 @@ The project successfully demonstrates that dynamic weighing is possible with car
 - Machine learning for better accuracy
 
 ---
-
-**Date:** July 22, 2026
